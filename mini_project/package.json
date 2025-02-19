@@ -1,0 +1,13 @@
+{
+  "name": "mini_project",
+  "version": "1.0.0",
+  "main": "file_creater.js",
+  "type": "module",
+  "scripts": {
+    "start": "node file_creater.js"
+  },
+  "keywords": [],
+  "author": "Rohit Kumar Mahor",
+  "license": "ISC",
+  "description": ""
+}
